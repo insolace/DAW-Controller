@@ -1,0 +1,75 @@
+Partlist
+
+Exported from controller-teensy-8or4.sch at 3/14/14 12:23 AM
+
+EAGLE Version 6.4.0 Copyright (c) 1988-2013 CadSoft
+
+Assembly variant: 
+
+Part      Value                  Device                 Package       Library      Sheet
+
+D1        LED-RGB-CA-THRUDIFFUSE LED-RGB-CA-THRUDIFFUSE LED-RGB-THRU  SparkFun-LED 1
+D2        LED-RGB-CA-THRUDIFFUSE LED-RGB-CA-THRUDIFFUSE LED-RGB-THRU  SparkFun-LED 1
+D3        LED-RGB-CA-THRUDIFFUSE LED-RGB-CA-THRUDIFFUSE LED-RGB-THRU  SparkFun-LED 1
+D4        LED-RGB-CA-THRUDIFFUSE LED-RGB-CA-THRUDIFFUSE LED-RGB-THRU  SparkFun-LED 1
+D5        LED-RGB-CA-THRUDIFFUSE LED-RGB-CA-THRUDIFFUSE LED-RGB-THRU  SparkFun-LED 1
+D6        LED-RGB-CA-THRUDIFFUSE LED-RGB-CA-THRUDIFFUSE LED-RGB-THRU  SparkFun-LED 1
+D7        LED-RGB-CA-THRUDIFFUSE LED-RGB-CA-THRUDIFFUSE LED-RGB-THRU  SparkFun-LED 1
+D8        LED-RGB-CA-THRUDIFFUSE LED-RGB-CA-THRUDIFFUSE LED-RGB-THRU  SparkFun-LED 1
+DL1       LED-RGB-CA-THRUDIFFUSE LED-RGB-CA-THRUDIFFUSE LED-RGB-THRU  SparkFun-LED 1
+DL2       LED-RGB-CA-THRUDIFFUSE LED-RGB-CA-THRUDIFFUSE LED-RGB-THRU  SparkFun-LED 1
+DL3       LED-RGB-CA-THRUDIFFUSE LED-RGB-CA-THRUDIFFUSE LED-RGB-THRU  SparkFun-LED 1
+DL4       LED-RGB-CA-THRUDIFFUSE LED-RGB-CA-THRUDIFFUSE LED-RGB-THRU  SparkFun-LED 1
+DR1       LED-RGB-CA-THRUDIFFUSE LED-RGB-CA-THRUDIFFUSE LED-RGB-THRU  SparkFun-LED 1
+DR2       LED-RGB-CA-THRUDIFFUSE LED-RGB-CA-THRUDIFFUSE LED-RGB-THRU  SparkFun-LED 1
+DR3       LED-RGB-CA-THRUDIFFUSE LED-RGB-CA-THRUDIFFUSE LED-RGB-THRU  SparkFun-LED 1
+DR4       LED-RGB-CA-THRUDIFFUSE LED-RGB-CA-THRUDIFFUSE LED-RGB-THRU  SparkFun-LED 1
+EXPANSION RJ45-8PTH              RJ45-8PTH              RJ45-8        SparkFun     1
+IC1       TEENSY                 TEENSY                 TEENSY        teensy       1
+IC2       LEDPWM1                TCL5940                DIP28         tcl5940      1
+IC3       LEDPWM2                TCL5940                DIP28         tcl5940      1
+IC4       LEDPWM3                TCL5940                DIP28         tcl5940      1
+IC5       74HC165-PN             74HC165-PN             DIL16         74xx-us      1
+IC6       74HC165-PN             74HC165-PN             DIL16         74xx-us      1
+IC7       74HC165-PN             74HC165-PN             DIL16         74xx-us      1
+IC8       74HC165-PN             74HC165-PN             DIL16         74xx-us      1
+IC9       74HC165-PN             74HC165-PN             DIL16         74xx-us      1
+R2        2k                     R-US_0207/10           0207/10       resistor     1
+R3        2k                     R-US_0207/10           0207/10       resistor     1
+R4        2k                     R-US_0207/10           0207/10       resistor     1
+RN1       10k                    RN09                   RN-10         resistor-net 1
+RN2       10k                    RN09                   RN-10         resistor-net 1
+RN3       10k                    RN09                   RN-10         resistor-net 1
+RN4       10k                    RN09                   RN-10         resistor-net 1
+RN5       10k                    RN09                   RN-10         resistor-net 1
+SW1       EC12E_SW               EC12E_SW               ALPS_EC12E_SW switch-alps  1
+SW1-ALT   EC12E_SW               EC12E_SW               ALPS_EC12E_SW switch-alps  1
+SW2       EC12E_SW               EC12E_SW               ALPS_EC12E_SW switch-alps  1
+SW3       EC12E_SW               EC12E_SW               ALPS_EC12E_SW switch-alps  1
+SW3-ALT   EC12E_SW               EC12E_SW               ALPS_EC12E_SW switch-alps  1
+SW4       EC12E_SW               EC12E_SW               ALPS_EC12E_SW switch-alps  1
+SW5       EC12E_SW               EC12E_SW               ALPS_EC12E_SW switch-alps  1
+SW5-ALT   EC12E_SW               EC12E_SW               ALPS_EC12E_SW switch-alps  1
+SW6       EC12E_SW               EC12E_SW               ALPS_EC12E_SW switch-alps  1
+SW7       EC12E_SW               EC12E_SW               ALPS_EC12E_SW switch-alps  1
+SW7-ALT   EC12E_SW               EC12E_SW               ALPS_EC12E_SW switch-alps  1
+SW8       EC12E_SW               EC12E_SW               ALPS_EC12E_SW switch-alps  1
+SWCH1                            BPM                    BMP           livid        1
+SWCH2                            BPM                    BMP           livid        1
+SWCH3                            BPM                    BMP           livid        1
+SWCH4                            BPM                    BMP           livid        1
+SWCH5                            BPM                    BMP           livid        1
+SWCH6                            BPM                    BMP           livid        1
+SWCH7                            BPM                    BMP           livid        1
+SWCH8                            BPM                    BMP           livid        1
+SWL       EC12E_SW               EC12E_SW               ALPS_EC12E_SW switch-alps  1
+SWL1                             BPM                    BMP           livid        1
+SWL2                             BPM                    BMP           livid        1
+SWL3                             BPM                    BMP           livid        1
+SWL4                             BPM                    BMP           livid        1
+SWR       EC12E_SW               EC12E_SW               ALPS_EC12E_SW switch-alps  1
+SWR1                             BPM                    BMP           livid        1
+SWR2                             BPM                    BMP           livid        1
+SWR3                             BPM                    BMP           livid        1
+SWR4                             BPM                    BMP           livid        1
+X1        HD44780LCD             HD44780LCD             LCD-40X2      adafruit     1
