@@ -2,4 +2,4 @@
  Concept design for a DAW controller with LCD, encoders, and RGB pushbuttons.<br>
  Developed by Eric Bateman
  
- ![](Pix/Collage.jpg)
+ ![](https://github.com/insolace/DAW-Controller/Pix/Collage.jpg)
